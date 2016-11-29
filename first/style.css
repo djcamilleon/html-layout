@@ -1,0 +1,29 @@
+.main-header {
+   width:100%;
+   height:100px;
+   background: grey;
+   position: absolute;
+}
+
+html {
+    background: lightgray;
+}
+
+.main-section {
+   width:70vw;
+   height:90vh;
+   margin: 0px 15vw 0 15vw;
+   background:white;
+}
+
+main {
+    width:100vw;
+    }
+
+.main-section-2 {
+   position: absolute;
+   width:70vw;
+   height:10vh;
+   margin: 0px 15vw 0 15vw;
+   background:black;
+}
